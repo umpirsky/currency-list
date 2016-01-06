@@ -1,0 +1,31 @@
+#!/usr/bin/env php
+<?php
+
+include __DIR__ . '/../vendor/autoload.php';
+
+class Currency extends Umpirsky\ListGenerator\Importer\Importer
+{
+    private $locale;
+    private $currencyBundle;
+
+    public function __construct()
+    {
+        $this->locale = new Symfony\Component\Locale\Locale();
+        $this->currencyBundle = Symfony\Component\Intl\Intl::getCurrencyBundle();
+    }
+
+    public function getLanguages()
+    {
+        return $this->locale->getLocales();
+    }
+
+    public function getData($language)
+    {
+        return $this->currencyBundle->getCurrencyNames($language);
+    }
+}
+
+(new Umpirsky\ListGenerator\Builder\Builder(
+    new Currency(),
+    __DIR__.'/../data'
+))->run();
