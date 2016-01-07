@@ -1,7 +1,7 @@
-Country List
-============
+Currency List
+=============
 
-List of all currencies in all data formats.
+List of all currencies with names and ISO 4217 codes in all languages and all data formats.
 
 Formats Available
 -----------------
@@ -27,3 +27,11 @@ update data source or contribute in any other way, you will probably want to reb
 ```bash
 $ composer install
 $ ./bin/build
+```
+
+Other Interesting Lists
+-----------------------
+
+* [Country List](https://github.com/umpirsky/country-list)
+* [Language List](https://github.com/umpirsky/language-list)
+* [Locale List](https://github.com/umpirsky/locale-list)

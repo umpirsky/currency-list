@@ -1,7 +1,7 @@
 {
-    "name": "umpirsky/country-list",
+    "name": "umpirsky/currency-list",
     "type": "library",
-    "description": "List of all currencies in all data formats.",
+    "description": "List of all currencies with names and ISO 4217 codes in all languages and all data formats.",
     "license": "MIT",
     "authors": [
         {
