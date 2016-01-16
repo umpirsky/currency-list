@@ -35,3 +35,4 @@ Other Interesting Lists
 * [Country List](https://github.com/umpirsky/country-list)
 * [Language List](https://github.com/umpirsky/language-list)
 * [Locale List](https://github.com/umpirsky/locale-list)
+* [TLD List](https://github.com/umpirsky/tld-list)
