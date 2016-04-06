@@ -106,7 +106,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'HRK', E'Horvat kunasi');
 INSERT INTO "list" ("id", "value") VALUES (E'ISJ', E'Icelandic Króna (1918–1981)');
 INSERT INTO "list" ("id", "value") VALUES (E'ILS', E'ILS');
 INSERT INTO "list" ("id", "value") VALUES (E'IDR', E'Indoneziya rupiyasi');
-INSERT INTO "list" ("id", "value") VALUES (E'GBP', E'Ingliz funt sterlingi');
+INSERT INTO "list" ("id", "value") VALUES (E'GBP', E'Ingliz funt');
 INSERT INTO "list" ("id", "value") VALUES (E'IQD', E'IQD');
 INSERT INTO "list" ("id", "value") VALUES (E'IEP', E'Irish Pound');
 INSERT INTO "list" ("id", "value") VALUES (E'IRR', E'IRR');

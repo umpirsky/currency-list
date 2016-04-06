@@ -66,7 +66,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'CLE', E'Čilės eskudai');
 INSERT INTO "list" ("id", "value") VALUES (E'CLP', E'Čilės pesas');
 INSERT INTO "list" ("id", "value") VALUES (E'CLF', E'Čiliečių unidades de fomentos');
 INSERT INTO "list" ("id", "value") VALUES (E'DKK', E'Danijos krona');
-INSERT INTO "list" ("id", "value") VALUES (E'GBP', E'Didžiosios Britanijos svaras sterlingų');
+INSERT INTO "list" ("id", "value") VALUES (E'GBP', E'Didžiosios Britanijos svaras');
 INSERT INTO "list" ("id", "value") VALUES (E'DOP', E'Dominikos pesas');
 INSERT INTO "list" ("id", "value") VALUES (E'DJF', E'Džibučio frankas');
 INSERT INTO "list" ("id", "value") VALUES (E'EGP', E'Egipto svaras');

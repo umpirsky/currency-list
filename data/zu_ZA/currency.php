@@ -75,7 +75,7 @@
   'BAM' => 'i-Bosnia-Herzegovina Convertible Mark',
   'BWP' => 'i-Botswana Pula',
   'BRL' => 'i-Brazilian Real',
-  'GBP' => 'i-British Pound Sterling',
+  'GBP' => 'i-British Pound',
   'BND' => 'i-Brunei Dollar',
   'BGN' => 'i-Bulgarian Lev',
   'BIF' => 'i-Burundian Franc',

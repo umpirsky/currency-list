@@ -264,7 +264,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'UYP', E'Uruguayan Peso (1975–1993
 INSERT INTO "list" ("id", "value") VALUES (E'UYI', E'Uruguayan Peso (Indexed Units)');
 INSERT INTO "list" ("id", "value") VALUES (E'USN', E'US Dollar (Next day)');
 INSERT INTO "list" ("id", "value") VALUES (E'USS', E'US Dollar (Same day)');
-INSERT INTO "list" ("id", "value") VALUES (E'UZS', E'Uzbekistan Som');
+INSERT INTO "list" ("id", "value") VALUES (E'UZS', E'Uzbekistani Som');
 INSERT INTO "list" ("id", "value") VALUES (E'VUV', E'Vanuatu Vatu');
 INSERT INTO "list" ("id", "value") VALUES (E'VEF', E'Venezuelan Bolívar');
 INSERT INTO "list" ("id", "value") VALUES (E'VEB', E'Venezuelan Bolívar (1871–2008)');

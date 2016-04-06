@@ -227,7 +227,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'BAM', E'बोस्निया-�
 INSERT INTO "list" ("id", "value") VALUES (E'BRL', E'ब्राजिलियन रियल');
 INSERT INTO "list" ("id", "value") VALUES (E'BND', E'ब्रुनाई डलर');
 INSERT INTO "list" ("id", "value") VALUES (E'VUV', E'भानुआतू भातु');
-INSERT INTO "list" ("id", "value") VALUES (E'INR', E'भारती रूपिँया');
+INSERT INTO "list" ("id", "value") VALUES (E'INR', E'भारतीय रूपिँया');
 INSERT INTO "list" ("id", "value") VALUES (E'VND', E'भियतनामी डङ्');
 INSERT INTO "list" ("id", "value") VALUES (E'BTN', E'भुटानी एन्‌गुल्ट्रुम');
 INSERT INTO "list" ("id", "value") VALUES (E'VEF', E'भेनेजुएलन बोलिभर');

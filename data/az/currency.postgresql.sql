@@ -51,7 +51,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'BRB', E'Braziliya kruzeyro novası'
 INSERT INTO "list" ("id", "value") VALUES (E'BRR', E'Braziliya kruzeyrosu');
 INSERT INTO "list" ("id", "value") VALUES (E'BRE', E'Braziliya kruzeyrosu (1990–1993)');
 INSERT INTO "list" ("id", "value") VALUES (E'BRL', E'Braziliya Realı');
-INSERT INTO "list" ("id", "value") VALUES (E'GBP', E'Britaniya Funt Sterlinqi');
+INSERT INTO "list" ("id", "value") VALUES (E'GBP', E'Britaniya Funt');
 INSERT INTO "list" ("id", "value") VALUES (E'BND', E'Bruney Dolları');
 INSERT INTO "list" ("id", "value") VALUES (E'BGO', E'Bulgarian Lev (1879–1952)');
 INSERT INTO "list" ("id", "value") VALUES (E'BGM', E'Bulgarian Socialist Lev');

@@ -106,6 +106,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'RON', E'Λέου Ρουμανίας
 INSERT INTO "list" ("id", "value") VALUES (E'SZL', E'Λιλανγκένι Σουαζιλάνδης');
 INSERT INTO "list" ("id", "value") VALUES (E'SHP', E'Λίρα Αγίας Ελένης');
 INSERT INTO "list" ("id", "value") VALUES (E'EGP', E'Λίρα Αιγύπτου');
+INSERT INTO "list" ("id", "value") VALUES (E'GBP', E'Λίρα Βρετανίας');
 INSERT INTO "list" ("id", "value") VALUES (E'GIP', E'Λίρα Γιβραλτάρ');
 INSERT INTO "list" ("id", "value") VALUES (E'IEP', E'Λίρα Ιρλανδίας');
 INSERT INTO "list" ("id", "value") VALUES (E'ILP', E'Λίρα Ισραήλ');
@@ -115,7 +116,6 @@ INSERT INTO "list" ("id", "value") VALUES (E'MTP', E'Λίρα Μάλτας');
 INSERT INTO "list" ("id", "value") VALUES (E'FKP', E'Λίρα Νησιών Φώκλαντ');
 INSERT INTO "list" ("id", "value") VALUES (E'SSP', E'Λίρα Νότιου Σουδάν');
 INSERT INTO "list" ("id", "value") VALUES (E'SDG', E'Λίρα Σουδάν');
-INSERT INTO "list" ("id", "value") VALUES (E'GBP', E'Λίρα Στερλίνα Βρετανίας');
 INSERT INTO "list" ("id", "value") VALUES (E'SYP', E'Λίρα Συρίας');
 INSERT INTO "list" ("id", "value") VALUES (E'ITL', E'Λιρέτα Ιταλίας');
 INSERT INTO "list" ("id", "value") VALUES (E'MTL', E'Λιρέτα Μάλτας');

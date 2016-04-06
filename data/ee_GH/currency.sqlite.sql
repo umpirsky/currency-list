@@ -56,7 +56,7 @@ INSERT INTO "list" ("id", "value") VALUES ('BRZ', 'braziliaga cruzeiro (1942–1
 INSERT INTO "list" ("id", "value") VALUES ('BRR', 'braziliaga cruzeiro (1993–1994)');
 INSERT INTO "list" ("id", "value") VALUES ('BRB', 'braziliaga cruzeiro xoxotɔ (1967–1986)');
 INSERT INTO "list" ("id", "value") VALUES ('BRE', 'braziliaga cruzeiro xoxotɔ gbãtɔ (1990–1993)');
-INSERT INTO "list" ("id", "value") VALUES ('GBP', 'britainga pound sterling');
+INSERT INTO "list" ("id", "value") VALUES ('GBP', 'britainga pound');
 INSERT INTO "list" ("id", "value") VALUES ('BND', 'bruneiga dollar');
 INSERT INTO "list" ("id", "value") VALUES ('BGN', 'bulgariaga lev');
 INSERT INTO "list" ("id", "value") VALUES ('BGO', 'bulgariaga lev (1879–1952)');

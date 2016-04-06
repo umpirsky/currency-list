@@ -145,8 +145,8 @@ INSERT INTO "list" ("id", "value") VALUES (E'MGF', E'فرانک ماداگاسک
 INSERT INTO "list" ("id", "value") VALUES (E'MLF', E'فرانک مالی');
 INSERT INTO "list" ("id", "value") VALUES (E'LUL', E'فرانک مالی لوگزامبورگ');
 INSERT INTO "list" ("id", "value") VALUES (E'MAF', E'فرانک مراکش');
-INSERT INTO "list" ("id", "value") VALUES (E'XOF', E'فرانک CFA غرب آفریقا');
-INSERT INTO "list" ("id", "value") VALUES (E'XAF', E'فرانک CFA مرکز آفریقا');
+INSERT INTO "list" ("id", "value") VALUES (E'XOF', E'فرانک CFA غرب افریقا');
+INSERT INTO "list" ("id", "value") VALUES (E'XAF', E'فرانک CFA مرکز افریقا');
 INSERT INTO "list" ("id", "value") VALUES (E'XPF', E'فرانک CFP');
 INSERT INTO "list" ("id", "value") VALUES (E'AWG', E'فلورین آروبا');
 INSERT INTO "list" ("id", "value") VALUES (E'HUF', E'فورینت مجارستان');

@@ -153,7 +153,7 @@ INSERT INTO "list" ("id", "value") VALUES ('LSL', 'Lesoto loti');
 INSERT INTO "list" ("id", "value") VALUES ('LBP', 'Libānas mārciņa');
 INSERT INTO "list" ("id", "value") VALUES ('LRD', 'Libērijas dolārs');
 INSERT INTO "list" ("id", "value") VALUES ('LYD', 'Lībijas dinārs');
-INSERT INTO "list" ("id", "value") VALUES ('GBP', 'Lielbritānijas sterliņu mārciņa');
+INSERT INTO "list" ("id", "value") VALUES ('GBP', 'Lielbritānijas mārciņa');
 INSERT INTO "list" ("id", "value") VALUES ('LTL', 'Lietuvas lits');
 INSERT INTO "list" ("id", "value") VALUES ('LTT', 'Lithuanian Talonas');
 INSERT INTO "list" ("id", "value") VALUES ('LUF', 'Luksemburgas franks');

@@ -7,7 +7,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'ALK', E'Albanian Lek (1946–1965)'
 INSERT INTO "list" ("id", "value") VALUES (E'DZD', E'alizeri Dinar');
 INSERT INTO "list" ("id", "value") VALUES (E'USD', E'ameriki Dolar');
 INSERT INTO "list" ("id", "value") VALUES (E'ADP', E'Andorran Peseta');
-INSERT INTO "list" ("id", "value") VALUES (E'GBP', E'angilɛ Livri Siterlingi');
+INSERT INTO "list" ("id", "value") VALUES (E'GBP', E'angilɛ Livri');
 INSERT INTO "list" ("id", "value") VALUES (E'AOA', E'angola Kwanza');
 INSERT INTO "list" ("id", "value") VALUES (E'AOK', E'Angolan Kwanza (1977–1991)');
 INSERT INTO "list" ("id", "value") VALUES (E'AON', E'Angolan New Kwanza (1990–2000)');
@@ -262,7 +262,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'UYP', E'Uruguayan Peso (1975–1993
 INSERT INTO "list" ("id", "value") VALUES (E'UYI', E'Uruguayan Peso (Indexed Units)');
 INSERT INTO "list" ("id", "value") VALUES (E'USN', E'US Dollar (Next day)');
 INSERT INTO "list" ("id", "value") VALUES (E'USS', E'US Dollar (Same day)');
-INSERT INTO "list" ("id", "value") VALUES (E'UZS', E'Uzbekistan Som');
+INSERT INTO "list" ("id", "value") VALUES (E'UZS', E'Uzbekistani Som');
 INSERT INTO "list" ("id", "value") VALUES (E'VUV', E'Vanuatu Vatu');
 INSERT INTO "list" ("id", "value") VALUES (E'VEF', E'Venezuelan Bolívar');
 INSERT INTO "list" ("id", "value") VALUES (E'VEB', E'Venezuelan Bolívar (1871–2008)');

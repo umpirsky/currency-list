@@ -158,7 +158,7 @@
   'CYP' => 'livre chypriote',
   'GIP' => 'livre de Gibraltar',
   'SHP' => 'livre de Sainte-Hélène',
-  'FKP' => 'livre des Falkland',
+  'FKP' => 'livre des îles Malouines',
   'EGP' => 'livre égyptienne',
   'IEP' => 'livre irlandaise',
   'ILP' => 'livre israélienne',

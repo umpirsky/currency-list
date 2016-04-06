@@ -48,7 +48,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'BRZ', E'Braziliaanse cruzeiro (1942
 INSERT INTO "list" ("id", "value") VALUES (E'BRE', E'Braziliaanse cruzeiro (1990–1993)');
 INSERT INTO "list" ("id", "value") VALUES (E'BRB', E'Braziliaanse cruzeiro novo (1967–1986)');
 INSERT INTO "list" ("id", "value") VALUES (E'BRL', E'Braziliaanse real');
-INSERT INTO "list" ("id", "value") VALUES (E'GBP', E'Brits pond sterling');
+INSERT INTO "list" ("id", "value") VALUES (E'GBP', E'Brits pond');
 INSERT INTO "list" ("id", "value") VALUES (E'BND', E'Bruneise dollar');
 INSERT INTO "list" ("id", "value") VALUES (E'BGL', E'Bulgaarse harde lev');
 INSERT INTO "list" ("id", "value") VALUES (E'BGN', E'Bulgaarse lev');

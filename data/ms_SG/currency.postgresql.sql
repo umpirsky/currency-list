@@ -179,12 +179,12 @@ INSERT INTO "list" ("id", "value") VALUES (E'NIC', E'Nicaraguan CÃ³rdoba (1988â€
 INSERT INTO "list" ("id", "value") VALUES (E'PEN', E'Nuevo Sol Peru');
 INSERT INTO "list" ("id", "value") VALUES (E'MRO', E'Ouguiya Mauritania');
 INSERT INTO "list" ("id", "value") VALUES (E'MOP', E'Pataca Macau');
+INSERT INTO "list" ("id", "value") VALUES (E'GBP', E'Paun British');
 INSERT INTO "list" ("id", "value") VALUES (E'GIP', E'Paun Gibraltar');
 INSERT INTO "list" ("id", "value") VALUES (E'FKP', E'Paun Kepulauan Falkland');
 INSERT INTO "list" ("id", "value") VALUES (E'LBP', E'Paun Lubnan');
 INSERT INTO "list" ("id", "value") VALUES (E'EGP', E'Paun Mesir');
 INSERT INTO "list" ("id", "value") VALUES (E'SHP', E'Paun Saint Helena');
-INSERT INTO "list" ("id", "value") VALUES (E'GBP', E'Paun Sterling British');
 INSERT INTO "list" ("id", "value") VALUES (E'SDG', E'Paun Sudan');
 INSERT INTO "list" ("id", "value") VALUES (E'SSP', E'Paun Sudan selatan');
 INSERT INTO "list" ("id", "value") VALUES (E'SYP', E'Paun Syria');

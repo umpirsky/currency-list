@@ -105,7 +105,7 @@
   'ISJ' => 'Icelandic Króna (1918–1981)',
   'ILS' => 'ILS',
   'IDR' => 'Indoneziya rupiyasi',
-  'GBP' => 'Ingliz funt sterlingi',
+  'GBP' => 'Ingliz funt',
   'IQD' => 'IQD',
   'IEP' => 'Irish Pound',
   'IRR' => 'IRR',

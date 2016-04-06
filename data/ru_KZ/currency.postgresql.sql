@@ -5,7 +5,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'ATS', E'Австрийский ши
 INSERT INTO "list" ("id", "value") VALUES (E'AZN', E'Азербайджанский манат');
 INSERT INTO "list" ("id", "value") VALUES (E'ALL', E'Албанский лек');
 INSERT INTO "list" ("id", "value") VALUES (E'DZD', E'Алжирский динар');
-INSERT INTO "list" ("id", "value") VALUES (E'GBP', E'Английский фунт стерлингов');
+INSERT INTO "list" ("id", "value") VALUES (E'GBP', E'Английский фунт');
 INSERT INTO "list" ("id", "value") VALUES (E'AOA', E'Ангольская кванза');
 INSERT INTO "list" ("id", "value") VALUES (E'AOK', E'Ангольская кванза (1977–1990)');
 INSERT INTO "list" ("id", "value") VALUES (E'AOR', E'Ангольская кванза реюстадо (1995–1999)');

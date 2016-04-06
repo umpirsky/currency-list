@@ -76,7 +76,7 @@ INSERT INTO `list` (`id`, `value`) VALUES ('BOB', 'i-Bolivian Boliviano');
 INSERT INTO `list` (`id`, `value`) VALUES ('BAM', 'i-Bosnia-Herzegovina Convertible Mark');
 INSERT INTO `list` (`id`, `value`) VALUES ('BWP', 'i-Botswana Pula');
 INSERT INTO `list` (`id`, `value`) VALUES ('BRL', 'i-Brazilian Real');
-INSERT INTO `list` (`id`, `value`) VALUES ('GBP', 'i-British Pound Sterling');
+INSERT INTO `list` (`id`, `value`) VALUES ('GBP', 'i-British Pound');
 INSERT INTO `list` (`id`, `value`) VALUES ('BND', 'i-Brunei Dollar');
 INSERT INTO `list` (`id`, `value`) VALUES ('BGN', 'i-Bulgarian Lev');
 INSERT INTO `list` (`id`, `value`) VALUES ('BIF', 'i-Burundian Franc');

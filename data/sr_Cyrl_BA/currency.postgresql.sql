@@ -32,6 +32,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'BMD', E'Бермудски дола
 INSERT INTO "list" ("id", "value") VALUES (E'BOB', E'Боливијски Боливиано');
 INSERT INTO "list" ("id", "value") VALUES (E'BOV', E'Боливијски мвдол');
 INSERT INTO "list" ("id", "value") VALUES (E'BOP', E'Боливијски пезо');
+INSERT INTO "list" ("id", "value") VALUES (E'BAM', E'Босанско-херцеговачка конвертибилна марка');
 INSERT INTO "list" ("id", "value") VALUES (E'BAD', E'Босанско-Херцеговачки динар');
 INSERT INTO "list" ("id", "value") VALUES (E'BWP', E'Боцванска пула');
 INSERT INTO "list" ("id", "value") VALUES (E'BRC', E'Бразилијски крузадо');
@@ -40,7 +41,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'BRR', E'Бразилски круз
 INSERT INTO "list" ("id", "value") VALUES (E'BRE', E'Бразилски крузеиро (1990–1993)');
 INSERT INTO "list" ("id", "value") VALUES (E'BRB', E'Бразилски нови крузеиро (1967–1986)');
 INSERT INTO "list" ("id", "value") VALUES (E'BRL', E'Бразилски реал');
-INSERT INTO "list" ("id", "value") VALUES (E'GBP', E'Британска фунта стерлинга');
+INSERT INTO "list" ("id", "value") VALUES (E'GBP', E'Британска фунта');
 INSERT INTO "list" ("id", "value") VALUES (E'BND', E'Брунејски долар');
 INSERT INTO "list" ("id", "value") VALUES (E'BGN', E'Бугарски лев');
 INSERT INTO "list" ("id", "value") VALUES (E'BGL', E'Бугарски тврди лев');
@@ -116,7 +117,6 @@ INSERT INTO "list" ("id", "value") VALUES (E'CYP', E'Кипарска фунта
 INSERT INTO "list" ("id", "value") VALUES (E'KGS', E'Киргистански сом');
 INSERT INTO "list" ("id", "value") VALUES (E'COP', E'Колумбијски пезос');
 INSERT INTO "list" ("id", "value") VALUES (E'KMF', E'Коморски франак');
-INSERT INTO "list" ("id", "value") VALUES (E'BAM', E'Конвертибилна Марка');
 INSERT INTO "list" ("id", "value") VALUES (E'CDF', E'Конгоански франак');
 INSERT INTO "list" ("id", "value") VALUES (E'CRC', E'Костарикански колон');
 INSERT INTO "list" ("id", "value") VALUES (E'CUC', E'Кубански конвертибилни пезос');

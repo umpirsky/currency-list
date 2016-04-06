@@ -264,7 +264,7 @@ INSERT INTO `list` (`id`, `value`) VALUES ('UYP', 'Uruguayan Peso (1975–1993)'
 INSERT INTO `list` (`id`, `value`) VALUES ('UYI', 'Uruguayan Peso (Indexed Units)');
 INSERT INTO `list` (`id`, `value`) VALUES ('USN', 'US Dollar (Next day)');
 INSERT INTO `list` (`id`, `value`) VALUES ('USS', 'US Dollar (Same day)');
-INSERT INTO `list` (`id`, `value`) VALUES ('UZS', 'Uzbekistan Som');
+INSERT INTO `list` (`id`, `value`) VALUES ('UZS', 'Uzbekistani Som');
 INSERT INTO `list` (`id`, `value`) VALUES ('VUV', 'Vanuatu Vatu');
 INSERT INTO `list` (`id`, `value`) VALUES ('VEF', 'Venezuelan Bolívar');
 INSERT INTO `list` (`id`, `value`) VALUES ('VEB', 'Venezuelan Bolívar (1871–2008)');

@@ -46,7 +46,7 @@
   'BRR' => 'Brasilianesche Cruzeiro (1993–1994)',
   'BRB' => 'Brasilianesche Cruzeiro Novo (1967–1986)',
   'BRL' => 'Brasilianesche Real',
-  'GBP' => 'Britescht Pond Sterling',
+  'GBP' => 'Britescht Pond',
   'BND' => 'Brunei-Dollar',
   'BGN' => 'Bulgaresch Lew',
   'BGL' => 'Bulgaresch Lew (1962–1999)',

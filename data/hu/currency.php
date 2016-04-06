@@ -45,7 +45,7 @@
   'BRR' => 'Brazil cruzeiro (1993–1994)',
   'BRL' => 'brazil real',
   'BRZ' => 'Brazilian Cruzeiro (1942–1967)',
-  'GBP' => 'brit font sterling',
+  'GBP' => 'brit font',
   'BND' => 'brunei dollár',
   'BGO' => 'Bulgarian Lev (1879–1952)',
   'BGM' => 'Bulgarian Socialist Lev',

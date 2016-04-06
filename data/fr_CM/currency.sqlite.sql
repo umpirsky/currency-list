@@ -159,7 +159,7 @@ INSERT INTO "list" ("id", "value") VALUES ('LTL', 'litas lituanien');
 INSERT INTO "list" ("id", "value") VALUES ('CYP', 'livre chypriote');
 INSERT INTO "list" ("id", "value") VALUES ('GIP', 'livre de Gibraltar');
 INSERT INTO "list" ("id", "value") VALUES ('SHP', 'livre de Sainte-Hélène');
-INSERT INTO "list" ("id", "value") VALUES ('FKP', 'livre des Falkland');
+INSERT INTO "list" ("id", "value") VALUES ('FKP', 'livre des îles Malouines');
 INSERT INTO "list" ("id", "value") VALUES ('EGP', 'livre égyptienne');
 INSERT INTO "list" ("id", "value") VALUES ('IEP', 'livre irlandaise');
 INSERT INTO "list" ("id", "value") VALUES ('ILP', 'livre israélienne');

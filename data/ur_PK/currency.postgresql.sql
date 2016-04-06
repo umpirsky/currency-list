@@ -62,7 +62,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'KRW', E'جنوبی کوریائی �
 INSERT INTO "list" ("id", "value") VALUES (E'CLP', E'چلّین پیسہ');
 INSERT INTO "list" ("id", "value") VALUES (E'CNY', E'چینی یوآن');
 INSERT INTO "list" ("id", "value") VALUES (E'DEM', E'ڈچ مارکس');
-INSERT INTO "list" ("id", "value") VALUES (E'DKK', E'ڈنمارک کرونر');
+INSERT INTO "list" ("id", "value") VALUES (E'DKK', E'ڈنمارک کرون');
 INSERT INTO "list" ("id", "value") VALUES (E'DOP', E'ڈومنیکن پیسو');
 INSERT INTO "list" ("id", "value") VALUES (E'RWF', E'روانڈا کا فرانک');
 INSERT INTO "list" ("id", "value") VALUES (E'RUB', E'روسی روبل');
@@ -139,7 +139,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'MZN', E'موزامبیقی میٹی
 INSERT INTO "list" ("id", "value") VALUES (E'MMK', E'میانما کیاٹ');
 INSERT INTO "list" ("id", "value") VALUES (E'MOP', E'میکانیز پٹاکا');
 INSERT INTO "list" ("id", "value") VALUES (E'MXN', E'میکسیکی پیسہ');
-INSERT INTO "list" ("id", "value") VALUES (E'NOK', E'ناروے کرونر');
+INSERT INTO "list" ("id", "value") VALUES (E'NOK', E'ناروے کرون');
 INSERT INTO "list" ("id", "value") VALUES (E'NAD', E'نامیبیائی ڈالر');
 INSERT INTO "list" ("id", "value") VALUES (E'NGN', E'نائیجیریائی نائرا');
 INSERT INTO "list" ("id", "value") VALUES (E'NIO', E'نکارا گوا کا کورڈوبا');

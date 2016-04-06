@@ -5,7 +5,7 @@ INSERT INTO "list" ("id", "value") VALUES ('ATS', 'Австрийский шил
 INSERT INTO "list" ("id", "value") VALUES ('AZN', 'Азербайджанский манат');
 INSERT INTO "list" ("id", "value") VALUES ('ALL', 'Албанский лек');
 INSERT INTO "list" ("id", "value") VALUES ('DZD', 'Алжирский динар');
-INSERT INTO "list" ("id", "value") VALUES ('GBP', 'Английский фунт стерлингов');
+INSERT INTO "list" ("id", "value") VALUES ('GBP', 'Английский фунт');
 INSERT INTO "list" ("id", "value") VALUES ('AOA', 'Ангольская кванза');
 INSERT INTO "list" ("id", "value") VALUES ('AOK', 'Ангольская кванза (1977–1990)');
 INSERT INTO "list" ("id", "value") VALUES ('AOR', 'Ангольская кванза реюстадо (1995–1999)');
