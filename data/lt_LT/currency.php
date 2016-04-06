@@ -65,7 +65,7 @@
   'CLP' => 'Čilės pesas',
   'CLF' => 'Čiliečių unidades de fomentos',
   'DKK' => 'Danijos krona',
-  'GBP' => 'Didžiosios Britanijos svaras sterlingų',
+  'GBP' => 'Didžiosios Britanijos svaras',
   'DOP' => 'Dominikos pesas',
   'DJF' => 'Džibučio frankas',
   'EGP' => 'Egipto svaras',

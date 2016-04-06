@@ -76,7 +76,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'BOB', E'i-Bolivian Boliviano');
 INSERT INTO "list" ("id", "value") VALUES (E'BAM', E'i-Bosnia-Herzegovina Convertible Mark');
 INSERT INTO "list" ("id", "value") VALUES (E'BWP', E'i-Botswana Pula');
 INSERT INTO "list" ("id", "value") VALUES (E'BRL', E'i-Brazilian Real');
-INSERT INTO "list" ("id", "value") VALUES (E'GBP', E'i-British Pound Sterling');
+INSERT INTO "list" ("id", "value") VALUES (E'GBP', E'i-British Pound');
 INSERT INTO "list" ("id", "value") VALUES (E'BND', E'i-Brunei Dollar');
 INSERT INTO "list" ("id", "value") VALUES (E'BGN', E'i-Bulgarian Lev');
 INSERT INTO "list" ("id", "value") VALUES (E'BIF', E'i-Burundian Franc');

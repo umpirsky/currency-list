@@ -27,7 +27,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'BTN', E'Բութանական նգո
 INSERT INTO "list" ("id", "value") VALUES (E'BGN', E'Բուլղարական լև');
 INSERT INTO "list" ("id", "value") VALUES (E'BIF', E'Բուրունդիի ֆրանկ');
 INSERT INTO "list" ("id", "value") VALUES (E'BRL', E'Բրազիլական ռեալ');
-INSERT INTO "list" ("id", "value") VALUES (E'GBP', E'Բրիտանական ֆունտ ստեռլինգ');
+INSERT INTO "list" ("id", "value") VALUES (E'GBP', E'Բրիտանական ֆունտ');
 INSERT INTO "list" ("id", "value") VALUES (E'BND', E'Բրունեյական դոլար');
 INSERT INTO "list" ("id", "value") VALUES (E'GMD', E'Գամբիական դալասի');
 INSERT INTO "list" ("id", "value") VALUES (E'GYD', E'Գայանական դոլար');

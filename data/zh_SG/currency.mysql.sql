@@ -99,7 +99,7 @@ INSERT INTO `list` (`id`, `value`) VALUES ('GEL', '格鲁吉亚拉里');
 INSERT INTO `list` (`id`, `value`) VALUES ('CUP', '古巴比索');
 INSERT INTO `list` (`id`, `value`) VALUES ('CUC', '古巴可兑换比索');
 INSERT INTO `list` (`id`, `value`) VALUES ('GYD', '圭亚那元');
-INSERT INTO `list` (`id`, `value`) VALUES ('KZT', '哈萨克斯坦腾格');
+INSERT INTO `list` (`id`, `value`) VALUES ('KZT', '哈萨克斯坦坚戈');
 INSERT INTO `list` (`id`, `value`) VALUES ('HTG', '海地古德');
 INSERT INTO `list` (`id`, `value`) VALUES ('KRW', '韩元');
 INSERT INTO `list` (`id`, `value`) VALUES ('KRO', '韩元 (1945–1953)');

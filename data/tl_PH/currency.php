@@ -42,7 +42,7 @@
   'BRN' => 'Brazilian New Cruzado (1989–1990)',
   'BRB' => 'Brazilian New Cruzeiro (1967–1986)',
   'BRL' => 'Brazilian Real',
-  'GBP' => 'British Pound Sterling',
+  'GBP' => 'British Pound',
   'BGL' => 'Bulgarian Hard Lev',
   'BGN' => 'Bulgarian Lev',
   'BGO' => 'Bulgarian Lev (1879–1952)',

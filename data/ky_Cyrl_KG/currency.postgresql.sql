@@ -23,7 +23,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'BOB', E'боливия боливи
 INSERT INTO "list" ("id", "value") VALUES (E'BAM', E'босния-герцоговина жүгүртөлмөлүү маркасы');
 INSERT INTO "list" ("id", "value") VALUES (E'BWP', E'Ботсвана пуласы');
 INSERT INTO "list" ("id", "value") VALUES (E'BRL', E'бразилия реалы');
-INSERT INTO "list" ("id", "value") VALUES (E'GBP', E'британия фунт стерлинги');
+INSERT INTO "list" ("id", "value") VALUES (E'GBP', E'британия фунт');
 INSERT INTO "list" ("id", "value") VALUES (E'BND', E'Бруней доллары');
 INSERT INTO "list" ("id", "value") VALUES (E'BIF', E'Бурунди франкы');
 INSERT INTO "list" ("id", "value") VALUES (E'BTN', E'Бутан нгултруму');

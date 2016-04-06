@@ -159,7 +159,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'LTL', E'litas lituanien');
 INSERT INTO "list" ("id", "value") VALUES (E'CYP', E'livre chypriote');
 INSERT INTO "list" ("id", "value") VALUES (E'GIP', E'livre de Gibraltar');
 INSERT INTO "list" ("id", "value") VALUES (E'SHP', E'livre de Sainte-Hélène');
-INSERT INTO "list" ("id", "value") VALUES (E'FKP', E'livre des Falkland');
+INSERT INTO "list" ("id", "value") VALUES (E'FKP', E'livre des îles Malouines');
 INSERT INTO "list" ("id", "value") VALUES (E'EGP', E'livre égyptienne');
 INSERT INTO "list" ("id", "value") VALUES (E'IEP', E'livre irlandaise');
 INSERT INTO "list" ("id", "value") VALUES (E'ILP', E'livre israélienne');

@@ -208,6 +208,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'UYP', E'Peso Uruguay (1975–1993)'
 INSERT INTO "list" ("id", "value") VALUES (E'UYI', E'Peso Uruguay (Unit Diindeks)');
 INSERT INTO "list" ("id", "value") VALUES (E'PLN', E'Polandia Zloty');
 INSERT INTO "list" ("id", "value") VALUES (E'GIP', E'Pound Gibraltar');
+INSERT INTO "list" ("id", "value") VALUES (E'GBP', E'Pound Inggris');
 INSERT INTO "list" ("id", "value") VALUES (E'IEP', E'Pound Irlandia');
 INSERT INTO "list" ("id", "value") VALUES (E'ILP', E'Pound Israel');
 INSERT INTO "list" ("id", "value") VALUES (E'FKP', E'Pound Kepulauan Falkland');
@@ -216,7 +217,6 @@ INSERT INTO "list" ("id", "value") VALUES (E'MTP', E'Pound Malta');
 INSERT INTO "list" ("id", "value") VALUES (E'EGP', E'Pound Mesir');
 INSERT INTO "list" ("id", "value") VALUES (E'SHP', E'Pound Saint Helena');
 INSERT INTO "list" ("id", "value") VALUES (E'CYP', E'Pound Siprus');
-INSERT INTO "list" ("id", "value") VALUES (E'GBP', E'Pound Sterling Inggris');
 INSERT INTO "list" ("id", "value") VALUES (E'SDG', E'Pound Sudan');
 INSERT INTO "list" ("id", "value") VALUES (E'SDP', E'Pound Sudan (1957–1998)');
 INSERT INTO "list" ("id", "value") VALUES (E'SSP', E'Pound Sudan Selatan');

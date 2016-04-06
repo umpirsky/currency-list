@@ -50,7 +50,7 @@
   'BRB' => 'brasiliansk cruzeiro novo (1967–1986)',
   'BRL' => 'brasiliansk real',
   'BRZ' => 'Brazilian Cruzeiro (1942–1967)',
-  'GBP' => 'britisk pund sterling',
+  'GBP' => 'britisk pund',
   'BND' => 'bruneisk dollar',
   'BGO' => 'Bulgarian Lev (1879–1952)',
   'BGM' => 'Bulgarian Socialist Lev',

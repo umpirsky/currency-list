@@ -179,12 +179,12 @@ INSERT INTO `list` (`id`, `value`) VALUES ('NIC', 'Nicaraguan Córdoba (1988–1
 INSERT INTO `list` (`id`, `value`) VALUES ('PEN', 'Nuevo Sol Peru');
 INSERT INTO `list` (`id`, `value`) VALUES ('MRO', 'Ouguiya Mauritania');
 INSERT INTO `list` (`id`, `value`) VALUES ('MOP', 'Pataca Macau');
+INSERT INTO `list` (`id`, `value`) VALUES ('GBP', 'Paun British');
 INSERT INTO `list` (`id`, `value`) VALUES ('GIP', 'Paun Gibraltar');
 INSERT INTO `list` (`id`, `value`) VALUES ('FKP', 'Paun Kepulauan Falkland');
 INSERT INTO `list` (`id`, `value`) VALUES ('LBP', 'Paun Lubnan');
 INSERT INTO `list` (`id`, `value`) VALUES ('EGP', 'Paun Mesir');
 INSERT INTO `list` (`id`, `value`) VALUES ('SHP', 'Paun Saint Helena');
-INSERT INTO `list` (`id`, `value`) VALUES ('GBP', 'Paun Sterling British');
 INSERT INTO `list` (`id`, `value`) VALUES ('SDG', 'Paun Sudan');
 INSERT INTO `list` (`id`, `value`) VALUES ('SSP', 'Paun Sudan selatan');
 INSERT INTO `list` (`id`, `value`) VALUES ('SYP', 'Paun Syria');

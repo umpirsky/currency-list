@@ -10,7 +10,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'AFA', E'अफगानी (1927–
 INSERT INTO "list" ("id", "value") VALUES (E'USS', E'अमेरीकी डालर (आज)');
 INSERT INTO "list" ("id", "value") VALUES (E'USN', E'अमेरीकी डालर (कल)');
 INSERT INTO "list" ("id", "value") VALUES (E'AWG', E'अरूबाई फ़्लोरिन');
-INSERT INTO "list" ("id", "value") VALUES (E'ARS', E'अर्जेंटीनी पीसो');
+INSERT INTO "list" ("id", "value") VALUES (E'ARS', E'अर्जेंटीनी पेसो');
 INSERT INTO "list" ("id", "value") VALUES (E'DZD', E'अल्जीरियाई दिनार');
 INSERT INTO "list" ("id", "value") VALUES (E'ALL', E'अल्बानियाई लेक');
 INSERT INTO "list" ("id", "value") VALUES (E'ISK', E'आइसलैंडिक क्रोना');
@@ -24,7 +24,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'ERN', E'इरीट्रियन
 INSERT INTO "list" ("id", "value") VALUES (E'IRR', E'ईरानी रियाल');
 INSERT INTO "list" ("id", "value") VALUES (E'UZS', E'उज़्बेकिस्तान सोम');
 INSERT INTO "list" ("id", "value") VALUES (E'KPW', E'उत्तर कोरियाई वॉन');
-INSERT INTO "list" ("id", "value") VALUES (E'UYU', E'उरुग्वियन पीसो');
+INSERT INTO "list" ("id", "value") VALUES (E'UYU', E'उरुग्वियन पेसो');
 INSERT INTO "list" ("id", "value") VALUES (E'EEK', E'एस्टोनियाई क्रून्');
 INSERT INTO "list" ("id", "value") VALUES (E'AUD', E'ऑस्ट्रेलियाई डॉलर');
 INSERT INTO "list" ("id", "value") VALUES (E'OMR', E'ओमानी रियाल');
@@ -39,10 +39,10 @@ INSERT INTO "list" ("id", "value") VALUES (E'CVE', E'केप वर्ड ए�
 INSERT INTO "list" ("id", "value") VALUES (E'KYD', E'कैमेन द्वीपसमूह डॉलर');
 INSERT INTO "list" ("id", "value") VALUES (E'CDF', E'कोंगोली फ़्रैंक');
 INSERT INTO "list" ("id", "value") VALUES (E'KMF', E'कोमोरियन फ़्रैंक');
-INSERT INTO "list" ("id", "value") VALUES (E'COP', E'कोलंबियाई पीसो');
+INSERT INTO "list" ("id", "value") VALUES (E'COP', E'कोलंबियाई पेसो');
 INSERT INTO "list" ("id", "value") VALUES (E'CRC', E'कोस्टा रिका कोलोन');
-INSERT INTO "list" ("id", "value") VALUES (E'CUC', E'क्यूबाई परिवर्तनीय पीसो');
-INSERT INTO "list" ("id", "value") VALUES (E'CUP', E'क्यूबाई पीसो');
+INSERT INTO "list" ("id", "value") VALUES (E'CUC', E'क्यूबाई परिवर्तनीय पेसो');
+INSERT INTO "list" ("id", "value") VALUES (E'CUP', E'क्यूबाई पेसो');
 INSERT INTO "list" ("id", "value") VALUES (E'HRD', E'क्रोएशियन दिनार');
 INSERT INTO "list" ("id", "value") VALUES (E'HRK', E'क्रोएशियाई कुना');
 INSERT INTO "list" ("id", "value") VALUES (E'GYD', E'गयानीज़ डॉलर');
@@ -50,7 +50,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'GNF', E'गिनीयन फ़�
 INSERT INTO "list" ("id", "value") VALUES (E'GMD', E'गैंबियन डलासी');
 INSERT INTO "list" ("id", "value") VALUES (E'GTQ', E'ग्वाटेमाला क्वेटज़ल');
 INSERT INTO "list" ("id", "value") VALUES (E'GHS', E'घानियन सेडी');
-INSERT INTO "list" ("id", "value") VALUES (E'CLP', E'चिली पीसो');
+INSERT INTO "list" ("id", "value") VALUES (E'CLP', E'चिली पेसो');
 INSERT INTO "list" ("id", "value") VALUES (E'CNY', E'चीनी युआन');
 INSERT INTO "list" ("id", "value") VALUES (E'CZK', E'चेक गणराज्य कोरुना');
 INSERT INTO "list" ("id", "value") VALUES (E'JMD', E'जमैकन डॉलर');
@@ -65,7 +65,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'TOP', E'टोंगन पां�
 INSERT INTO "list" ("id", "value") VALUES (E'TND', E'ट्यूनीशियाई दिनार');
 INSERT INTO "list" ("id", "value") VALUES (E'DEM', E'डच मार्क');
 INSERT INTO "list" ("id", "value") VALUES (E'DKK', E'डैनिश क्रोन');
-INSERT INTO "list" ("id", "value") VALUES (E'DOP', E'डोमिनिकन पीसो');
+INSERT INTO "list" ("id", "value") VALUES (E'DOP', E'डोमिनिकन पेसो');
 INSERT INTO "list" ("id", "value") VALUES (E'TZS', E'तंज़ानियाई शिलिंग');
 INSERT INTO "list" ("id", "value") VALUES (E'TJR', E'तजाखी रूबल');
 INSERT INTO "list" ("id", "value") VALUES (E'TJS', E'ताजिकिस्तानी सोमोनी');
@@ -95,7 +95,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'PEN', E'पेरूवियन �
 INSERT INTO "list" ("id", "value") VALUES (E'PYG', E'पैराग्वियन गुआरानी');
 INSERT INTO "list" ("id", "value") VALUES (E'PLN', E'पोलिश ज़्लॉटी');
 INSERT INTO "list" ("id", "value") VALUES (E'FJD', E'फ़िजी डॉलर');
-INSERT INTO "list" ("id", "value") VALUES (E'PHP', E'फ़िलिपीनी पीसो');
+INSERT INTO "list" ("id", "value") VALUES (E'PHP', E'फ़िलिपीनी पेसो');
 INSERT INTO "list" ("id", "value") VALUES (E'FKP', E'फ़ॉकलैंड द्वीपसमूह पाउंड');
 INSERT INTO "list" ("id", "value") VALUES (E'FRF', E'फ़्रांसीसी फ़्रैंक');
 INSERT INTO "list" ("id", "value") VALUES (E'BMD', E'बरमूडा डॉलर');
@@ -122,7 +122,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'MGA', E'मालागासी �
 INSERT INTO "list" ("id", "value") VALUES (E'MWK', E'मालावियन क्वाचा');
 INSERT INTO "list" ("id", "value") VALUES (E'EGP', E'मिस्र पाउंड');
 INSERT INTO "list" ("id", "value") VALUES (E'MOP', E'मेकानीज़ पाटाका');
-INSERT INTO "list" ("id", "value") VALUES (E'MXN', E'मैक्सिकन पीसो');
+INSERT INTO "list" ("id", "value") VALUES (E'MXN', E'मैक्सिकन पेसो');
 INSERT INTO "list" ("id", "value") VALUES (E'MKD', E'मैसीडोनियन दिनार');
 INSERT INTO "list" ("id", "value") VALUES (E'MUR', E'मॉरिशियन रुपया');
 INSERT INTO "list" ("id", "value") VALUES (E'MRO', E'मॉरीटेनियन ओगुइया');

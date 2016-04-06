@@ -257,7 +257,7 @@ INSERT INTO "list" ("id", "value") VALUES ('HNL', 'Гондурас лемпир
 INSERT INTO "list" ("id", "value") VALUES ('DOP', 'Доминикан песоси');
 INSERT INTO "list" ("id", "value") VALUES ('EUR', 'Евро');
 INSERT INTO "list" ("id", "value") VALUES ('DZD', 'Жазоир динори');
-INSERT INTO "list" ("id", "value") VALUES ('GBP', 'Инглиз фунт стерлинги');
+INSERT INTO "list" ("id", "value") VALUES ('GBP', 'Инглиз фунт');
 INSERT INTO "list" ("id", "value") VALUES ('KYD', 'Кайман ороли Доллари');
 INSERT INTO "list" ("id", "value") VALUES ('CAD', 'Канада доллари');
 INSERT INTO "list" ("id", "value") VALUES ('COP', 'Колумбия песоси');

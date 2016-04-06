@@ -47,7 +47,7 @@ INSERT INTO `list` (`id`, `value`) VALUES ('BRZ', 'brasilianske cruzeiro (1942�
 INSERT INTO `list` (`id`, `value`) VALUES ('BRE', 'brasilianske cruzeiro (1990–1993)');
 INSERT INTO `list` (`id`, `value`) VALUES ('BRB', 'brasilianske cruzeiro novo (1967–1986)');
 INSERT INTO `list` (`id`, `value`) VALUES ('BRL', 'brasilianske real');
-INSERT INTO `list` (`id`, `value`) VALUES ('GBP', 'britiske pund sterling');
+INSERT INTO `list` (`id`, `value`) VALUES ('GBP', 'britiske pund');
 INSERT INTO `list` (`id`, `value`) VALUES ('BND', 'bruneiske dollar');
 INSERT INTO `list` (`id`, `value`) VALUES ('BGN', 'bulgarske lev');
 INSERT INTO `list` (`id`, `value`) VALUES ('BGO', 'bulgarske lev (1879–1952)');

@@ -41,7 +41,7 @@ INSERT INTO `list` (`id`, `value`) VALUES ('BRR', 'Бразилски крузе
 INSERT INTO `list` (`id`, `value`) VALUES ('BRE', 'Бразилски крузеиро (1990–1993)');
 INSERT INTO `list` (`id`, `value`) VALUES ('BRB', 'Бразилски нови крузеиро (1967–1986)');
 INSERT INTO `list` (`id`, `value`) VALUES ('BRL', 'Бразилски реал');
-INSERT INTO `list` (`id`, `value`) VALUES ('GBP', 'Британска фунта стерлинга');
+INSERT INTO `list` (`id`, `value`) VALUES ('GBP', 'Британска фунта');
 INSERT INTO `list` (`id`, `value`) VALUES ('BND', 'Брунејски долар');
 INSERT INTO `list` (`id`, `value`) VALUES ('BGN', 'Бугарски лев');
 INSERT INTO `list` (`id`, `value`) VALUES ('BGL', 'Бугарски тврди лев');

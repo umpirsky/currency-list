@@ -32,6 +32,7 @@ INSERT INTO `list` (`id`, `value`) VALUES ('BMD', 'Бермудски долар
 INSERT INTO `list` (`id`, `value`) VALUES ('BOB', 'Боливијски Боливиано');
 INSERT INTO `list` (`id`, `value`) VALUES ('BOV', 'Боливијски мвдол');
 INSERT INTO `list` (`id`, `value`) VALUES ('BOP', 'Боливијски пезо');
+INSERT INTO `list` (`id`, `value`) VALUES ('BAM', 'Босанско-херцеговачка конвертибилна марка');
 INSERT INTO `list` (`id`, `value`) VALUES ('BAD', 'Босанско-Херцеговачки динар');
 INSERT INTO `list` (`id`, `value`) VALUES ('BWP', 'Боцванска пула');
 INSERT INTO `list` (`id`, `value`) VALUES ('BRC', 'Бразилијски крузадо');
@@ -40,7 +41,7 @@ INSERT INTO `list` (`id`, `value`) VALUES ('BRR', 'Бразилски крузе
 INSERT INTO `list` (`id`, `value`) VALUES ('BRE', 'Бразилски крузеиро (1990–1993)');
 INSERT INTO `list` (`id`, `value`) VALUES ('BRB', 'Бразилски нови крузеиро (1967–1986)');
 INSERT INTO `list` (`id`, `value`) VALUES ('BRL', 'Бразилски реал');
-INSERT INTO `list` (`id`, `value`) VALUES ('GBP', 'Британска фунта стерлинга');
+INSERT INTO `list` (`id`, `value`) VALUES ('GBP', 'Британска фунта');
 INSERT INTO `list` (`id`, `value`) VALUES ('BND', 'Брунејски долар');
 INSERT INTO `list` (`id`, `value`) VALUES ('BGN', 'Бугарски лев');
 INSERT INTO `list` (`id`, `value`) VALUES ('BGL', 'Бугарски тврди лев');
@@ -116,7 +117,6 @@ INSERT INTO `list` (`id`, `value`) VALUES ('CYP', 'Кипарска фунта')
 INSERT INTO `list` (`id`, `value`) VALUES ('KGS', 'Киргистански сом');
 INSERT INTO `list` (`id`, `value`) VALUES ('COP', 'Колумбијски пезос');
 INSERT INTO `list` (`id`, `value`) VALUES ('KMF', 'Коморски франак');
-INSERT INTO `list` (`id`, `value`) VALUES ('BAM', 'Конвертибилна Марка');
 INSERT INTO `list` (`id`, `value`) VALUES ('CDF', 'Конгоански франак');
 INSERT INTO `list` (`id`, `value`) VALUES ('CRC', 'Костарикански колон');
 INSERT INTO `list` (`id`, `value`) VALUES ('CUC', 'Кубански конвертибилни пезос');

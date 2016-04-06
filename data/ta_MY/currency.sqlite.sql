@@ -119,7 +119,7 @@ INSERT INTO "list" ("id", "value") VALUES ('BAM', 'போஸ்னியா-ஹ�
 INSERT INTO "list" ("id", "value") VALUES ('MNT', 'மங்கோலியன் டுக்ரிக்');
 INSERT INTO "list" ("id", "value") VALUES ('MGA', 'மலகாசி ஏரியரி');
 INSERT INTO "list" ("id", "value") VALUES ('MWK', 'மலாவியன் குவாச்சா');
-INSERT INTO "list" ("id", "value") VALUES ('MYR', 'மலேசிய ரிங்கிட்');
+INSERT INTO "list" ("id", "value") VALUES ('MYR', 'மலேஷியன் ரிங்கித்');
 INSERT INTO "list" ("id", "value") VALUES ('MDL', 'மால்டோவன் லியூ');
 INSERT INTO "list" ("id", "value") VALUES ('MVR', 'மாலத்தீவு ருஃபியா');
 INSERT INTO "list" ("id", "value") VALUES ('MMK', 'மியான்மர் கியாத்');

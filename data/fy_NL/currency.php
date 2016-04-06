@@ -52,7 +52,7 @@
   'BRE' => 'Braziliaanske cruzeiro (1990–1993)',
   'BRB' => 'Braziliaanske cruzeiro novo (1967–1986)',
   'BRL' => 'Braziliaanske real',
-  'GBP' => 'Brits pûn sterling',
+  'GBP' => 'Brits pûn',
   'BND' => 'Bruneise dollar',
   'BGL' => 'Bulgaarse harde lev',
   'BGN' => 'Bulgaarse lev',

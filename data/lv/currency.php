@@ -152,7 +152,7 @@
   'LBP' => 'Libānas mārciņa',
   'LRD' => 'Libērijas dolārs',
   'LYD' => 'Lībijas dinārs',
-  'GBP' => 'Lielbritānijas sterliņu mārciņa',
+  'GBP' => 'Lielbritānijas mārciņa',
   'LTL' => 'Lietuvas lits',
   'LTT' => 'Lithuanian Talonas',
   'LUF' => 'Luksemburgas franks',
