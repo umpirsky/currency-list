@@ -1,0 +1,41 @@
+version: "2"
+
+services:
+    php:
+        build: .
+        volumes:
+            - ./:/var/www/html
+        depends_on:
+            - mysql
+            - pgsql
+            - sqlite
+        networks:
+            - local
+    mysql:
+        image: mysql/mysql-server:5.7
+        environment:
+          MYSQL_DATABASE: list
+          MYSQL_USER: list
+          MYSQL_PASSWORD: list
+        networks:
+          local:
+              aliases:
+                  - mysql
+    pgsql:
+        image: postgres:9.3
+        environment:
+          POSTGRES_DB: list
+          POSTGRES_USER: list
+          POSTGRES_PASSWORD: list
+        networks:
+          local:
+              aliases:
+                  - pgsql
+    sqlite:
+        image: nouchka/sqlite3
+        networks:
+          local:
+              aliases:
+                  - sqlite
+networks:
+    local:
