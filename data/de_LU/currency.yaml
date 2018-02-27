@@ -1,6 +1,5 @@
 AFA: 'Afghanische Afghani (1927–2002)'
 AFN: 'Afghanischer Afghani'
-EGP: 'Ägyptisches Pfund'
 ALL: 'Albanischer Lek'
 ALK: 'Albanischer Lek (1946–1965)'
 DZD: 'Algerischer Dinar'
@@ -9,7 +8,6 @@ AOA: 'Angolanischer Kwanza'
 AOK: 'Angolanischer Kwanza (1977–1990)'
 AOR: 'Angolanischer Kwanza Reajustado (1995–1999)'
 AON: 'Angolanischer Neuer Kwanza (1990–2000)'
-GQE: Äquatorialguinea-Ekwele
 ARA: 'Argentinischer Austral'
 ARS: 'Argentinischer Peso'
 ARM: 'Argentinischer Peso (1881–1970)'
@@ -19,7 +17,6 @@ AMD: 'Armenischer Dram'
 AWG: Aruba-Florin
 AZN: Aserbaidschan-Manat
 AZM: 'Aserbaidschan-Manat (1993–2006)'
-ETB: 'Äthiopischer Birr'
 AUD: 'Australischer Dollar'
 BSD: Bahamas-Dollar
 BHD: Bahrain-Dinar
@@ -48,7 +45,7 @@ BRE: 'Brasilianischer Cruzeiro (1990–1993)'
 BRR: 'Brasilianischer Cruzeiro (1993–1994)'
 BRB: 'Brasilianischer Cruzeiro Novo (1967–1986)'
 BRL: 'Brasilianischer Real'
-GBP: 'Britisches Pfund Sterling'
+GBP: 'Britisches Pfund'
 BND: Brunei-Dollar
 BGL: 'Bulgarische Lew (1962–1999)'
 BGN: 'Bulgarischer Lew'
@@ -58,15 +55,16 @@ BIF: Burundi-Franc
 XOF: 'CFA-Franc (BCEAO)'
 XAF: 'CFA-Franc (BEAC)'
 XPF: CFP-Franc
+CVE: Cabo-Verde-Escudo
 CLF: 'Chilenische Unidades de Fomento'
 CLE: 'Chilenischer Escudo'
 CLP: 'Chilenischer Peso'
 CRC: Costa-Rica-Colón
-DKK: 'Dänische Krone'
 DEM: 'Deutsche Mark'
 CNX: 'Dollar der Chinesischen Volksbank'
 DOP: 'Dominikanischer Peso'
 DJF: Dschibuti-Franc
+DKK: 'Dänische Krone'
 ECS: 'Ecuadorianischer Sucre'
 SVC: 'El Salvador Colon'
 ERN: 'Eritreischer Nakfa'
@@ -117,7 +115,6 @@ YUR: 'Jugoslawischer reformierter Dinar (1992–1993)'
 KYD: Kaiman-Dollar
 KHR: 'Kambodschanischer Riel'
 CAD: 'Kanadischer Dollar'
-CVE: Kap-Verde-Escudo
 KZT: 'Kasachischer Tenge'
 QAR: Katar-Riyal
 KES: Kenia-Schilling
@@ -185,23 +182,22 @@ NGN: 'Nigerianischer Naira'
 KPW: 'Nordkoreanischer Won'
 NOK: 'Norwegische Krone'
 OMR: 'Omanischer Rial'
-ATS: 'Österreichischer Schilling'
 XCD: 'Ostkaribischer Dollar'
 PKR: 'Pakistanische Rupie'
 PAB: 'Panamaischer Balboa'
 PGK: 'Papua-Neuguineischer Kina'
 PYG: 'Paraguayischer Guaraní'
 PEI: 'Peruanischer Inti'
-PEN: 'Peruanischer Neuer Sol'
+PEN: 'Peruanischer Sol'
 PES: 'Peruanischer Sol (1863–1965)'
 PHP: 'Philippinischer Peso'
-PLN: 'Polnischer Złoty'
 PLZ: 'Polnischer Zloty (1950–1995)'
+PLN: 'Polnischer Złoty'
 GWE: 'Portugiesisch Guinea Escudo'
 PTE: 'Portugiesischer Escudo'
+XRE: 'RINET Funds'
 CNY: 'Renminbi Yuan'
 RHD: 'Rhodesischer Dollar'
-XRE: 'RINET Funds'
 RWF: Ruanda-Franc
 RON: 'Rumänischer Leu'
 ROL: 'Rumänischer Leu (1952–2006)'
@@ -209,7 +205,6 @@ RUB: 'Russischer Rubel'
 RUR: 'Russischer Rubel (1991–1998)'
 SBD: Salomonen-Dollar
 WST: 'Samoanischer Tala'
-STD: 'São-toméischer Dobra'
 SAR: Saudi-Rial
 SEK: 'Schwedische Krone'
 CHF: 'Schweizer Franken'
@@ -230,19 +225,20 @@ ESA: 'Spanische Peseta (A–Konten)'
 ESB: 'Spanische Peseta (konvertibel)'
 LKR: Sri-Lanka-Rupie
 SHP: 'St. Helena-Pfund'
-ZAR: 'Südafrikanischer Rand'
-ZAL: 'Südafrikanischer Rand (Finanz)'
 SDD: 'Sudanesischer Dinar (1992–2007)'
 SDG: 'Sudanesisches Pfund'
 SDP: 'Sudanesisches Pfund (1957–1998)'
-KRH: 'Südkoreanischer Hwan (1953–1962)'
-KRW: 'Südkoreanischer Won'
-KRO: 'Südkoreanischer Won (1945–1953)'
-SSP: 'Südsudanesisches Pfund'
 SRG: 'Suriname Gulden'
 SRD: Suriname-Dollar
 SZL: 'Swasiländischer Lilangeni'
 SYP: 'Syrisches Pfund'
+STD: 'São-toméischer Dobra'
+ZAR: 'Südafrikanischer Rand'
+ZAL: 'Südafrikanischer Rand (Finanz)'
+KRH: 'Südkoreanischer Hwan (1953–1962)'
+KRW: 'Südkoreanischer Won'
+KRO: 'Südkoreanischer Won (1945–1953)'
+SSP: 'Südsudanesisches Pfund'
 TJR: 'Tadschikistan Rubel'
 TJS: Tadschikistan-Somoni
 TZS: Tansania-Schilling
@@ -253,10 +249,13 @@ TTD: 'Trinidad und Tobago-Dollar'
 CZK: 'Tschechische Krone'
 CSK: 'Tschechoslowakische Krone'
 TND: 'Tunesischer Dinar'
-TRY: 'Türkische Lira'
-TRL: 'Türkische Lira (1922–2005)'
 TMT: Turkmenistan-Manat
 TMM: 'Turkmenistan-Manat (1993–2009)'
+TRY: 'Türkische Lira'
+TRL: 'Türkische Lira (1922–2005)'
+USS: 'US Dollar (Gleicher Tag)'
+USN: 'US Dollar (Nächster Tag)'
+USD: US-Dollar
 UGX: Uganda-Schilling
 UGS: 'Uganda-Schilling (1966–1987)'
 UAH: 'Ukrainische Hrywnja'
@@ -265,9 +264,6 @@ HUF: 'Ungarischer Forint'
 UYU: 'Uruguayischer Peso'
 UYP: 'Uruguayischer Peso (1975–1993)'
 UYI: 'Uruguayischer Peso (Indexierte Rechnungseinheiten)'
-USS: 'US Dollar (Gleicher Tag)'
-USN: 'US Dollar (Nächster Tag)'
-USD: US-Dollar
 UZS: Usbekistan-Sum
 AED: VAE-Dirham
 VUV: Vanuatu-Vatu
@@ -276,9 +272,14 @@ VEB: 'Venezolanischer Bolívar (1871–2008)'
 ECV: 'Verrechnungseinheit für Ecuador'
 VND: 'Vietnamesischer Dong'
 VNN: 'Vietnamesischer Dong(1978–1985)'
-BYR: 'Weißrussischer Rubel'
 CHW: 'WIR Franken'
 CHE: WIR-Euro
+BYN: 'Weißrussischer Rubel'
+BYR: 'Weißrussischer Rubel (2000–2016)'
 ZRN: 'Zaire-Neuer Zaïre (1993–1998)'
 ZRZ: 'Zaire-Zaïre (1971–1993)'
 CYP: Zypern-Pfund
+EGP: 'Ägyptisches Pfund'
+GQE: Äquatorialguinea-Ekwele
+ETB: 'Äthiopischer Birr'
+ATS: 'Österreichischer Schilling'

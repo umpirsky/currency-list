@@ -1,4 +1,4 @@
-CREATE TABLE list (id VARCHAR(2) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+CREATE TABLE list (id VARCHAR(10) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
 
 INSERT INTO "list" ("id", "value") VALUES (E'XOF', E'(CFA) ფრანკი (BCEAO)');
 INSERT INTO "list" ("id", "value") VALUES (E'ALK', E'Albanian Lek (1946–1965)');
@@ -11,7 +11,6 @@ INSERT INTO "list" ("id", "value") VALUES (E'BRZ', E'Brazilian Cruzeiro (1942–
 INSERT INTO "list" ("id", "value") VALUES (E'BGO', E'Bulgarian Lev (1879–1952)');
 INSERT INTO "list" ("id", "value") VALUES (E'BGM', E'Bulgarian Socialist Lev');
 INSERT INTO "list" ("id", "value") VALUES (E'BUK', E'Burmese Kyat');
-INSERT INTO "list" ("id", "value") VALUES (E'XAF', E'CFA ფრანკი (BEAC)');
 INSERT INTO "list" ("id", "value") VALUES (E'XPF', E'CFP ფრანკი');
 INSERT INTO "list" ("id", "value") VALUES (E'CLE', E'Chilean Escudo');
 INSERT INTO "list" ("id", "value") VALUES (E'CLF', E'Chilean Unit of Account (UF)');
@@ -26,7 +25,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'GWP', E'Guinea-Bissau Peso');
 INSERT INTO "list" ("id", "value") VALUES (E'GNS', E'Guinean Syli');
 INSERT INTO "list" ("id", "value") VALUES (E'ISJ', E'Icelandic Króna (1918–1981)');
 INSERT INTO "list" ("id", "value") VALUES (E'ILP', E'Israeli Pound');
-INSERT INTO "list" ("id", "value") VALUES (E'ILR', E'Israeli Sheqel (1980–1985)');
+INSERT INTO "list" ("id", "value") VALUES (E'ILR', E'Israeli Shekel (1980–1985)');
 INSERT INTO "list" ("id", "value") VALUES (E'LSL', E'Lesotho Loti');
 INSERT INTO "list" ("id", "value") VALUES (E'MKN', E'Macedonian Denar (1992–1993)');
 INSERT INTO "list" ("id", "value") VALUES (E'MVP', E'Maldivian Rupee (1947–1981)');
@@ -84,7 +83,8 @@ INSERT INTO "list" ("id", "value") VALUES (E'BEF', E'ბელგიური �
 INSERT INTO "list" ("id", "value") VALUES (E'BEC', E'ბელგიური ფრანკი (კოვერტირებადი)');
 INSERT INTO "list" ("id", "value") VALUES (E'BEL', E'ბელგიური ფრანკი (ფინანსური)');
 INSERT INTO "list" ("id", "value") VALUES (E'BZD', E'ბელიზის დოლარი');
-INSERT INTO "list" ("id", "value") VALUES (E'BYR', E'ბელორუსული რუბლი');
+INSERT INTO "list" ("id", "value") VALUES (E'BYN', E'ბელორუსული რუბლი');
+INSERT INTO "list" ("id", "value") VALUES (E'BYR', E'ბელორუსული რუბლი (2000–2016)');
 INSERT INTO "list" ("id", "value") VALUES (E'BMD', E'ბერმუდული დოლარი');
 INSERT INTO "list" ("id", "value") VALUES (E'GRD', E'ბერძნული დრაჰმა');
 INSERT INTO "list" ("id", "value") VALUES (E'BOB', E'ბოლივიური ბოლივიანო');
@@ -205,9 +205,9 @@ INSERT INTO "list" ("id", "value") VALUES (E'PKR', E'პაკისტანუ
 INSERT INTO "list" ("id", "value") VALUES (E'PAB', E'პანამური ბალბოა');
 INSERT INTO "list" ("id", "value") VALUES (E'PGK', E'პაპუა-ახალი გვინეის კინა');
 INSERT INTO "list" ("id", "value") VALUES (E'PYG', E'პარაგვაული გუარანი');
-INSERT INTO "list" ("id", "value") VALUES (E'PEN', E'პერუს ახალი სოლი');
 INSERT INTO "list" ("id", "value") VALUES (E'PEI', E'პერუს ინტი');
-INSERT INTO "list" ("id", "value") VALUES (E'PES', E'პერუს სოლი');
+INSERT INTO "list" ("id", "value") VALUES (E'PEN', E'პერუს სოლი');
+INSERT INTO "list" ("id", "value") VALUES (E'PES', E'პერუს სოლი (1863–1965)');
 INSERT INTO "list" ("id", "value") VALUES (E'PLN', E'პოლონური ზლოტი');
 INSERT INTO "list" ("id", "value") VALUES (E'PLZ', E'პოლონური ზლოტი (1950–1995)');
 INSERT INTO "list" ("id", "value") VALUES (E'GWE', E'პორტუგალიური გინეა ესკუდო');
@@ -273,6 +273,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'CZK', E'ჩეხური კრ�
 INSERT INTO "list" ("id", "value") VALUES (E'CLP', E'ჩილეს პესო');
 INSERT INTO "list" ("id", "value") VALUES (E'CNY', E'ჩინური იუანი');
 INSERT INTO "list" ("id", "value") VALUES (E'KPW', E'ჩრდილოეთ კორეული ვონი');
+INSERT INTO "list" ("id", "value") VALUES (E'XAF', E'ცენტრალურ აფრიკული CFA ფრანკი');
 INSERT INTO "list" ("id", "value") VALUES (E'MZM', E'ძველი მოზამბიკური მეტიკალი');
 INSERT INTO "list" ("id", "value") VALUES (E'ROL', E'ძველი რუმინული ლეუ');
 INSERT INTO "list" ("id", "value") VALUES (E'CSD', E'ძველი სერბიული დინარი');
