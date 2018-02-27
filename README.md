@@ -43,7 +43,8 @@ Currency list is available out of the box, but if you want to submit patches, ad
 update data source or contribute in any other way, you will probably want to rebuild the list:
 
 ```bash
-$ docker-compose run php /var/www/html/bin/build -v
+$ composer install
+$ ./bin/build
 ```
 
 Other Interesting Lists
