@@ -1,0 +1,9 @@
+{
+  "name": "@umpirsky/currency-list",
+  "description": "List of all currencies with names and ISO 4217 codes in all languages and all data formats.",
+  "version": "1.1.0",
+  "homepage": "http://github.com/umpirsky/currency-list",
+  "repository": "git://github.com/umpirsky/currency-list.git",
+  "author": "Saša Stamenković <umpirsky@gmail.com>",
+  "license": "MIT"
+}
